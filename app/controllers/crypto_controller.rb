@@ -1,5 +1,5 @@
 class CryptoController < ApplicationController
-  respond_to :html, :json
+  respond_to :html
 
   # GET /encode
   #
